@@ -1,0 +1,2285 @@
+{
+  "comp_id": "teragence",
+  "run_date": "2021-02-01",
+  "url": "https://www.teragence.com/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6bf1e2fc-c370-45e2-9ef8-2fad347e1837"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-01-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2089274",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1310889",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1307765",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "7c00f1f3-9542-483d-bad7-3498b0830f52"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-02-02",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2058934",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-10",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1641642",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-14",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "666921",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2258302",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f9868540-8a9c-49ab-ad0e-d9c81b8b86b4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1ffdcd99-5980-464a-aaff-213977aa8ac3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-04-12",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "2749900",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c200a00e-fde0-4ad4-a361-6b434d79724e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-05-03",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1010041",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b387447a-59d3-4c01-8cfb-1abda731ce1f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8b931ec4-20fd-4863-8577-7fcef618bf66"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "dd42375a-512f-493e-ae96-a986a444c913"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "bdb6510b-0ad9-44d0-b3eb-d79d311d364a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-09-08",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "782284",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-22",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1685280",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8c699b16-90a1-4585-82a9-8b77b6c3738b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-10-20",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1088515",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "256333e9-93ab-4f11-9fb9-5d174da992c7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "849d26b7-994e-440b-8c32-47a5dbae68fe"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ec144fcd-5559-4831-b51a-44059742c44c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-01-12",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "535807",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-01-29",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "995575",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b431e331-73f6-4518-bf86-35a10bbf86c6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-02-02",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1343175",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1861762",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1d06bc31-1df1-4527-80eb-61695669a0af"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3cb233a1-1b64-4668-afc9-9484d7b68115"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f77d908a-d526-4970-8245-dee1e7f4c47b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cec7bf79-6a67-4839-b19d-a9b2dc870bde"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c2a3793e-8ed3-4817-a5a1-4fc04e89cfa4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5c0f0cd3-cb51-43ca-8869-27019b6d6563"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-08-25",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1100370",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "83bd9920-f2cc-466a-b385-0ee8d1e51f9d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d37ec441-17e7-4414-824a-d251e41eaf26"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-10-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1399852",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-10-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2412234",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b943773d-e7e6-4044-994c-deb163e45f3d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-11-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2035521",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-11-17",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "759956",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1084215",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2c4557a4-0c34-4754-b685-391ee5b077b4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0018767f-1548-45d8-a09c-24dbde993e63"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d0a5ec3b-8c6f-4db1-aa44-2cbcd8fed2d7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "953e996a-2391-47f0-b348-6c1a066a2231"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2ac953f3-a95d-4abc-89a4-dafcc5c39582"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "66ea8935-03cf-498b-95fb-33d777d1adfe"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f8a5fa8b-36ab-4983-82d8-35ee212da652"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a344df21-28a3-473c-98b5-1d7201375669"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f250ec13-ee00-4b0f-a381-4a0bc3c41fbf"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "35ed6dce-956f-4f31-a534-2b4a983286b5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cd9fdd14-0bc1-44cd-b39e-12ddb164fc75"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a8a6cdc5-24c8-4a5f-a6f7-37400fac9350"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "17c450d5-c029-4658-a4ec-83a381dfd0f9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f58483e3-dd6d-4dd5-8bcd-68fa188f9e40"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "05c191d1-1162-46ee-aa9a-7e3c8b8ed8fa"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "130c7805-a3e1-44eb-8b57-fb4b3380eb09"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-03-26",
+                    "PageViews": {
+                      "PerMillion": "0.009",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "689247",
+                    "Reach": {
+                      "PerMillion": "0.3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "86031211-169a-46b2-b6d2-9f0e37a1fd91"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d625d70c-7bc2-4087-8140-36c18ed9afb8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d2559afe-0a7e-4317-9ed9-afd0cd46895a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "7d4e2baa-8a20-4bd8-b296-50d892fbb4c7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e0ef6e0f-385e-42ac-a84a-da1e66904dde"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5d66bb73-92b2-49b1-b49d-3619cfded570"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-09-08",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "730054",
+                      "Reach": {
+                        "PerMillion": "0.3"
+                      }
+                    },
+                    {
+                      "Date": "2020-10-01",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "503598",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9bbfb8c4-9798-4459-924f-d5c46841e00a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-10-01",
+                    "PageViews": {
+                      "PerMillion": "0.04",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "503598",
+                    "Reach": {
+                      "PerMillion": "2"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d9024adf-ef43-45d3-aa0a-456bdee5f1d2"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a7f74755-57cf-4627-bd8d-a0308d25eb4d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "425696ab-db51-4a28-a6a2-53eff5a8f8fc"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.teragence.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "https://www.teragence.com/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

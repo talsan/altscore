@@ -1,0 +1,2101 @@
+{
+  "comp_id": "datapulse",
+  "run_date": "2021-02-01",
+  "url": "http://datapulse.global/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4e021b95-106f-4af5-aeb3-7041bf8099d1"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e8971256-e29e-4f22-98ef-734048fbe572"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-02-20",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1344239",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "907183a9-3bed-45da-a9b9-c4e33974e686"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-03-23",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "2018290",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c291f37f-468a-448b-9b81-76592e18df55"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-04-27",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1080082",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c79a84b2-c85a-404e-b1c3-ad7af55f6e6c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-05-10",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1130517",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ac5890f2-f8ff-4e9a-8dbe-7499cf9d1100"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "dbde6ba7-5727-4e48-851b-b614492b2aab"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b4fd9bc9-fad0-4420-9183-69d54eb0f911"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "94b953ec-3f87-490c-9e2c-8a780513a358"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d128e0f7-1636-4059-b6c1-4396b0044a51"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d85adcb1-5268-49c4-885c-fbc3c36c56d1"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9bbef6d4-5dac-4e6b-b461-4bf5b0b3b5df"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e2ace157-d2bc-49ad-80ec-cc5b4667e57f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "edbda0d9-c66b-415e-ad89-4ba0fe3dd4c3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "62ab5498-4da9-4490-8f99-a487465155c5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0bb1b43a-f3cf-423b-b8f4-95a74a008da6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a3918e9a-8b00-4475-9e37-52d4d0477d23"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a5575c38-1520-45a4-a564-1b762b031c24"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8d9b7f5b-5061-4a7a-b0b4-31a658cda92d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "7b35f2c9-d88e-4369-b334-4e4ad5814ac9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "49c6ea02-63e5-45f3-9bc3-b34f6a894754"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f9148a02-a3db-461b-a286-575d7d50fcb8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8015d3d3-d9c1-43b9-8cbe-6b4dafb623c6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a26f0eee-aa27-40d4-a846-e53f5fa2bb8f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0f2b7ee8-2fe1-4949-acf4-d36606aa0ae0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-01-02",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "900291",
+                    "Reach": {
+                      "PerMillion": "0.8"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d3d038e1-db47-4de4-945f-f0d3bea42afa"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0bdc500b-ec09-43dd-ab00-71431dda5982"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-03-14",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "993070",
+                    "Reach": {
+                      "PerMillion": "0.7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c8dd5da8-738b-4fce-8f3d-a256ac6400d2"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-04-23",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1046055",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ad14bb36-56b9-4fe3-9bc4-ca796a97ecca"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a5ca18df-71c3-431e-a09a-abe1d89f56aa"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-06-12",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "905552",
+                    "Reach": {
+                      "PerMillion": "0.8"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "38cdf2ef-f19b-46da-907d-43dcf37b73c1"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cdfea114-bcdb-46db-a351-d8fb1c8c7403"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4cf5e733-6867-4153-98ce-6f85c1b11dee"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f2078186-9814-4a9b-b828-cb6db8bb9e7c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-10-09",
+                    "PageViews": {
+                      "PerMillion": "0.08",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "326178",
+                    "Reach": {
+                      "PerMillion": "3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "086d9755-b24c-45db-a5fb-09e3e7aa29c6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "51d3f4b9-2b21-4e12-88a6-d4ee5caf5120"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8fd57ed9-467a-4326-966a-1808c55fbba0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-01-12",
+                    "PageViews": {
+                      "PerMillion": "0.04",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "423830",
+                    "Reach": {
+                      "PerMillion": "1"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f8891719-11d9-40bb-942a-4cbc7fafadbf"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3e41dfcb-e62d-4a29-bf48-b19e7893d301"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a7bdd8eb-fde9-4958-b7e7-460be2aa377e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2f11644b-8dc5-43c6-b7ea-99d9881283d3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d15ab802-7259-4f3f-92b8-184a437427b7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3bdf66f4-7223-4c38-96d7-c1d68508d74a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-07-16",
+                    "PageViews": {
+                      "PerMillion": "0.06",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "515737",
+                    "Reach": {
+                      "PerMillion": "1"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5e2a2c65-76b5-4dc9-b45c-edcfbd5ca946"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9fb8df34-69a3-45f3-b6bc-98a2423ec530"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a8e9e39f-bcfc-48cb-9da4-39c1c898dcca"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "81189bdb-a198-4ca6-94b7-40813c91683e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3434c138-c17e-4376-a0ed-c22f7a0c6575"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d8ce08ba-38e4-4265-9d24-44bfbafb9483"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://datapulse.global/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "http://datapulse.global/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

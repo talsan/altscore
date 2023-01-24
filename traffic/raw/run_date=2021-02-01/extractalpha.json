@@ -1,0 +1,2879 @@
+{
+  "comp_id": "extractalpha",
+  "run_date": "2021-02-01",
+  "url": "http://extractalpha.com/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c33f997e-ed14-4707-90e9-cea960e2f99f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-01-03",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "947174",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2694411",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-30",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "484471",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6304de59-bbe0-4e5c-9eee-1b2611ee1c2f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6da962ed-9af8-484d-affd-53fdc5fd8528"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-03-28",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1505213",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "514c6157-cc38-4701-bf16-43112be16595"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-04-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2175553",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1718155",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1014973",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1222596",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1757632",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e620816f-2c7c-46f2-8aad-ed81d92927d4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-05-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1708072",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-07",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "906344",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-11",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "805023",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1516025",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e9517b57-c9f0-4a74-a494-9a8c937a8552"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-06-07",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "604004",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1444988",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-19",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "841070",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-22",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1361266",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1264530",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "af85dc8f-5cb2-4554-acc0-6737ef5843c4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-07-04",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "794155",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1213261",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ebd7a40e-fb10-44fe-8482-7fb643f5dc7e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-08-03",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "757563",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1322096",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-13",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "120208",
+                      "Reach": {
+                        "PerMillion": "7"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-15",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "828441",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1187929",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-23",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "652944",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "18a8c937-de10-4918-bb37-27b798c81962"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-09-06",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "885675",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1127941",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1359602",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1661744",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3f21effb-5016-4eb8-9df6-d1aa5ffe6728"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-10-03",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "2479049",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "18c5766b-75eb-4b27-9dab-ae403ae438c2"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-11-06",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1353329",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "21d1512e-2578-4318-aaf4-b0d165884c59"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-12-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1269926",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-12-11",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "927680",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-12-12",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "640719",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-12-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1116105",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ce21fe82-262e-4769-a8af-956862e0aeaf"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0694b30c-7681-442a-92ef-7892baf84172"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-02-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1218439",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-15",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "949935",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ad33b6b7-80f9-4ac0-80eb-3026ae8c96a1"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-03-07",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1174698",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "85487051-462c-451d-9f59-613df1504f0d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6c0a64b0-cc13-4cea-8336-a29f0ca33bac"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-05-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1400404",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-05-19",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "706247",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d1795106-77de-4b1a-b65e-e80f9ed77908"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-06-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1032026",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-06-25",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "866542",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cacc4317-07e5-4ce0-85be-fac8fb958886"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "dc3c91b7-6840-4c77-b2b5-55fddb48525e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-08-28",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1024629",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9a6b5a27-d1a4-462f-a5cc-71a6ca278f1d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-09-08",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "485421",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1200556",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "967c72b0-5d44-438f-a74b-8dd0f60a97e5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-10-04",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "945880",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-07",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "747060",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-11",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "913660",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5a5e6858-848d-488b-ac1c-690d5614f04f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-11-15",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "808590",
+                    "Reach": {
+                      "PerMillion": "0.9"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "97a223ea-e316-4509-b1f1-e4dc37632e48"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-12-14",
+                    "PageViews": {
+                      "PerMillion": "0.07",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "472018",
+                    "Reach": {
+                      "PerMillion": "1"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "61c62d8c-d0e8-4968-986e-74c1a0ed6413"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-01-10",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "814725",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1116059",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-01-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1131312",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3aa2a438-b085-479c-b41d-f7a36caebb62"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-02-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1070689",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "777713",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "11fd6692-1ad1-4340-8547-a23edfffeb37"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "777713",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-11",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "757452",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-19",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "740930",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a338526e-7464-4283-9bdc-d71b9e09baad"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-04-10",
+                    "PageViews": {
+                      "PerMillion": "0.04",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "813469",
+                    "Reach": {
+                      "PerMillion": "0.7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "108781d5-34bd-4d7c-8cf0-97cf7fdc4619"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-05-31",
+                    "PageViews": {
+                      "PerMillion": "0.1",
+                      "PerUser": "5.00"
+                    },
+                    "Rank": "542919",
+                    "Reach": {
+                      "PerMillion": "0.8"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6e08891d-2869-4d48-aaf1-beaea4d93d7d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-06-24",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1273193",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "397a3ae9-b243-45da-82c4-89132b911641"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8880fe6e-a678-4779-902f-fc27619bbc04"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "73535a18-d265-4ccf-92fe-cc3a64957b0c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d4ab3819-ecbf-4029-bbee-f0e3f2f15b1c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-10-28",
+                    "PageViews": {
+                      "PerMillion": "0.1",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "286202",
+                    "Reach": {
+                      "PerMillion": "3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "27464a38-a8ba-4a05-92b4-6b35f4b39748"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-11-14",
+                    "PageViews": {
+                      "PerMillion": "0.09",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "427530",
+                    "Reach": {
+                      "PerMillion": "2"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "048c8fcc-709e-4147-b900-4c3e8d8bfc66"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-12-05",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "205290",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-06",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "325393",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f251a47f-069c-4a4e-b32e-4509076a335f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-01-08",
+                      "PageViews": {
+                        "PerMillion": "0.6",
+                        "PerUser": "9.00"
+                      },
+                      "Rank": "214732",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-10",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "363689",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "07859fab-bc11-4d31-acfb-47681f67aa4b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "38009f3e-97a9-4f5a-a313-f8a670db3b8b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "05a73d68-d24d-4e43-a908-62478209d9fa"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ae0e5eff-429e-4631-8e51-fc8938d51fb8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "dc93fccf-ce40-423a-b1a4-2a264ab8951a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a3408948-f24d-4707-8295-e69fdd996c5a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-07-03",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "292387",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-28",
+                      "PageViews": {
+                        "PerMillion": "0.4",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "184677",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-30",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "294729",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "44318d1c-b6fa-49fc-a90f-de06946a4c5b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3d4df2b8-7e70-420c-82b3-0dac7a5880e0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-09-09",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "562810",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2020-09-10",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "318938",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-09-29",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "174124",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "87616aed-dd83-47bf-b6df-9cd9ec805856"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-10-11",
+                    "PageViews": {
+                      "PerMillion": "0.03",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "420041",
+                    "Reach": {
+                      "PerMillion": "1"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d304f0c0-29df-4d96-ac2e-2061e705e84a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-11-14",
+                    "PageViews": {
+                      "PerMillion": "0.1",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "188661",
+                    "Reach": {
+                      "PerMillion": "5"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8686a6e6-cba5-4819-9a48-0a12eab5c8f0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f729cd3e-acdb-4500-b36a-b69107efc36f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://extractalpha.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "http://extractalpha.com/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

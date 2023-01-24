@@ -1,0 +1,2427 @@
+{
+  "comp_id": "arch-metrics-llc",
+  "run_date": "2021-02-01",
+  "url": "https://www.archmetrics.com/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3d9a074f-d93e-4d19-80a7-484a435eeeda"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-01-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1013628",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1467250",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1543611",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "bff6d6be-08cd-40a1-9d85-3e4d8aa998c1"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-02-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1915817",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1570177",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-28",
+                      "PageViews": {
+                        "PerMillion": "0.24",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "643377",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "11fbab77-6834-49d1-93bc-66fcb5590c4c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c92b8f1d-7371-4feb-b2e0-d9026ad0c178"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-04-28",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "2385550",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b4682989-383b-4cab-b32b-022eec0d3f20"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-05-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1280852",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1320700",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2526231",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "461f8ea1-53ee-4d7d-8875-2152f4335e06"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-06-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1336829",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1357541",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1640329",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1585819",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a02caa64-1f45-4e6e-8b7c-70eb99c3e1ee"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-07-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1585819",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1242386",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1111645",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2226735",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cc6d200e-d8a3-4ffb-97f4-5d3ecd6ddd56"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-08-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1825293",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1012367",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e75330b2-8c58-40e3-89b1-7122b7acfca7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-09-02",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1584712",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1756195",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1542199",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-24",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "511579",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3812ab69-7ed7-4788-96d3-83141a804f92"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-10-02",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1294075",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "393485aa-5216-4d68-b81f-b7844972bd5b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3f012244-7037-47b0-8e9b-fa9c83030fe1"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "63c74d9c-5a9a-490f-b085-da45656f9aa6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fa7e5294-b7f0-4378-93d4-c7b3c39f96ab"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "edcec199-6256-47ad-91c3-0cdb232e9c6a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-03-28",
+                    "PageViews": {
+                      "PerMillion": "0.03",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "837663",
+                    "Reach": {
+                      "PerMillion": "0.7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9c973a50-7af1-4e00-9495-d392c7bec908"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fc1c0673-f324-451c-9a9f-dfe8e2abcdfb"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-05-21",
+                    "PageViews": {
+                      "PerMillion": "0.04",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "809670",
+                    "Reach": {
+                      "PerMillion": "0.7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "71a1d420-d7fc-4846-8076-ef4d408204c2"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-06-06",
+                    "PageViews": {
+                      "PerMillion": "0.07",
+                      "PerUser": "4.00"
+                    },
+                    "Rank": "690974",
+                    "Reach": {
+                      "PerMillion": "0.7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6646e2b7-5a9a-4aaf-886a-a10572aa8061"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b9aff209-13c6-4d99-93f5-7c7be7d11149"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9a48bcb7-096e-411b-9669-17abd9e414b4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0b873902-490a-4beb-a32c-4e8a50fb58e9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "65e822ff-ddad-455e-b7b3-94263dac2f3e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-11-28",
+                    "PageViews": {
+                      "PerMillion": "0.04",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "725529",
+                    "Reach": {
+                      "PerMillion": "0.8"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9ff81f0a-a20f-4709-a779-819f679709bd"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fe01b18a-4461-4837-9af6-146057d15c9b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "af35c0b2-92f6-436d-ae03-318b059fa7f9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-02-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1008383",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-02-25",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "695193",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a14b12db-bb03-4ed9-8058-55d30d0cedc6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-03-08",
+                    "PageViews": {
+                      "PerMillion": "0.04",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "783623",
+                    "Reach": {
+                      "PerMillion": "0.7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3a2743c0-655a-40de-893c-e7bcc042a93f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-04-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1028548",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-01",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "814875",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e0eb134b-1dab-4253-8462-fc127f5572d9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-05-01",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "814875",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1003475",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "717ffb01-d130-43d3-a241-3b28156107be"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-06-18",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "913835",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-27",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "827789",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d5ba808b-217a-433e-9961-9a91a7a081c3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "30678dc3-c832-4cc8-a079-87e427109d47"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "56a5dc4f-380e-4053-8e98-f50478c2cdc6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f700b3f1-42dd-4765-9926-c7b54d505bfb"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "434c786e-b1d6-405c-b901-bd655fc0415f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5fe65a26-347e-4fb4-882b-c8f4d749a672"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3a7d4b5f-b4fc-4c51-b8a0-10bb06fef541"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "559335b7-0023-40dd-99f4-76eac13e92f4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ec2e5fca-e108-4a2b-8bdf-332fc36ad2e6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "38bfc3e5-f158-48ed-a611-01809ac6fc72"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8b925f07-7eca-484d-8598-8723dc5aa256"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "94ea4ceb-0503-412a-8790-ade1b75d961b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c0ffac04-8e14-4139-be95-c77ff9b68eb4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "228f5d12-eaf1-4ff8-a2d7-108260a4b6ac"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ed0d7159-0f08-474c-a332-59227484f767"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "80d60701-8c70-46a6-bb16-449f1700ef9c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "11f949c3-81de-4fc1-a8c7-61ccce593722"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "08952293-1bf6-4cc6-8e82-8115de8a5b79"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "310996ed-284c-417f-b5d1-8c7a07707efe"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "https://www.archmetrics.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "https://www.archmetrics.com/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

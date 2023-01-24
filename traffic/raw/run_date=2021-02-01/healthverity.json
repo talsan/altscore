@@ -1,0 +1,4902 @@
+{
+  "comp_id": "healthverity",
+  "run_date": "2021-02-01",
+  "url": "http://www.healthverity.com/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4d3a5fe5-5ac3-45fa-a60f-d94ab6b1996b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-01-08",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "675410",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-31",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "479540",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "91c521c3-4784-40c8-9973-844071affba2"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-02-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1144382",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-16",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "791925",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-17",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "746700",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-19",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "887769",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-25",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "942642",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "739a6e8f-d035-42a4-966d-128e40775e78"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-03-10",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1126328",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-12",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "893639",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1202678",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1262389",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-15",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "624342",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-17",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "534060",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-22",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1420778",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1732281",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-24",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "924734",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1171167",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1262284",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-29",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1159661",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1578247",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1de65786-a290-472a-ab3a-bd41449ad254"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-04-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2745375",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "3256142",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1351126",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1225544",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-24",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1939651",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-26",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "238170",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-27",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "539508",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b5bd6782-5522-4213-8b7e-0434193ab7a8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-05-03",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "740690",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1209711",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1181704",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-08",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "457930",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1883313",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1185644",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2579751",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1137476",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1058778",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-20",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "727509",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1053037",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1124281",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c5cab184-aa8f-4bb1-803a-90eae39a45f4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-06-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "773765",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-05",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "535591",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-09",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "516004",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1458218",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-22",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "471243",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-23",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "558392",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1041556",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c8e571f1-79c3-4688-a27e-05a0a270a55c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-07-04",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "116249",
+                      "Reach": {
+                        "PerMillion": "7"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1357785",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-10",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "972521",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-17",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "824705",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1279689",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1695810",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-24",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "998842",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-26",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "831822",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fb8b2f17-1610-4b95-a2c2-7f43555b9ae0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-08-02",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1029308",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-03",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "930748",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-07",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "930721",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1551140",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9b0dd57a-1a1f-4fe7-b2ab-413faeee15a7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-09-07",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "468202",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-13",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "957116",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-15",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "914097",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-19",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "976625",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1086550",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b6933349-39fe-447e-a4c5-6f50063dc53d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-10-16",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "836361",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-10-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1036661",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-10-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1261724",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-10-27",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "654122",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "add220f4-a92a-4ed5-b1ad-159e5644e18a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-11-15",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "910507",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-11-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1274368",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-11-22",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "669183",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "235208a3-843b-4a98-aeb1-1907f77fce40"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-12-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1258405",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-12-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1172860",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-12-19",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "660609",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-12-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1157909",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-12-29",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2098874",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d39365f5-346d-481c-b6dc-bdc449dea5d0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-01-10",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "989474",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-01-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1249725",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-01-18",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "793462",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "228dda2d-dff7-4ed8-960f-c9675b80ca6f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-02-16",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "402185",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-21",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "457490",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-22",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "957987",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "720501f5-0afe-44c5-9960-bcfde7143c1c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-03-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2748557",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-03-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1095672",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-03-12",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "749845",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1161550",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-03-21",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "635809",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1037629",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-03-28",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "849754",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-30",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "649179",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cbf8a91e-c7d5-48e8-9182-d0426b57c9f9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-04-02",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1033460",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-04-03",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "691335",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-04",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "764545",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1042915",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-04-07",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "810007",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-08",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "862920",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-10",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1191567",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0dfc3b2e-2954-4d23-9a0f-ef867e5671cf"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-05-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2231627",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-05-24",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1626577",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "81a1133f-10b8-4cfb-8d55-1e15261bc7ea"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-06-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1027461",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-06-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1002079",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-06-25",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "646332",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "21d62f7e-fe5f-40a3-944f-fe681ee1ab07"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-07-05",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "940604",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-10",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1051853",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-07-12",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "840053",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-13",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "520845",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1063276",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-07-17",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1067642",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-07-19",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "805903",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-20",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "939764",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-31",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "716607",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0e47817b-8209-4a1f-a98b-5013be6242ed"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-08-01",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "726874",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1012099",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-15",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "694930",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-21",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "723665",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1029045",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2508144",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-30",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "722337",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "92b7fd51-2a45-4532-9d66-e3238f8aa5e8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-09-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1033145",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-09-07",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "610588",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-10",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1297169",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-09-26",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "973811",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c6d2a703-b95a-4505-867b-92666dc667bc"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-10-04",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "674966",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-05",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "892945",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-19",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "524380",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "90aef20d-e769-454c-97ea-760c2007f53a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-11-17",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "522735",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1243095",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "640ebaad-4f36-483f-815b-7ce1c5d7a8f5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-12-10",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "892138",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-12-13",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "453844",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ff636ddc-0060-4206-b50c-5790ad66ea0c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-01-18",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1764805",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fc010dbd-847d-45cb-a9e0-774f3714f700"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-02-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1066840",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-02-22",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "989691",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-01",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "235656",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f7bd5203-6a61-4db0-9b6d-9a9ccdaf8120"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-03-01",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "235656",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-28",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "983245",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8f636a16-b7c1-4e86-8b0b-6209b9c662e0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-04-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "645992",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1072625",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-04-04",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "689125",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-05",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "419020",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-08",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "575366",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-14",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "585641",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-16",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "775052",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-17",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2460336",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-04-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1065041",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-04-25",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "321535",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-26",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "945481",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-28",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "705083",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1011338",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f145d625-749d-43ea-8ddb-41ae6e96d5ce"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-05-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1011338",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-03",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "978423",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1052183",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1007483",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-23",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "958429",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-24",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "645857",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-25",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "488604",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-29",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "975051",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-30",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "583061",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "38fa4574-1349-4268-9a4d-c5f4ab3bc2ef"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-06-02",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "265191",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-03",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "622961",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-04",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "796066",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-05",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "450979",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-12",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "541376",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-17",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "683990",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-24",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "287706",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-28",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "616801",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-07-01",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "497850",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f15705c0-b13d-4211-8393-19ea8c305c1b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-07-01",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "497850",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-07-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1133936",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-07-04",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "834597",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2019-07-15",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "191945",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-07-23",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "326575",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-07-29",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "478406",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cec1ea88-0038-40ff-8756-f3dbe62c5097"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-08-05",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "314592",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-08-09",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "286265",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2019-08-14",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "245970",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-08-15",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "139876",
+                      "Reach": {
+                        "PerMillion": "7"
+                      }
+                    },
+                    {
+                      "Date": "2019-08-28",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "203851",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fe572198-d57c-4dd4-b469-786ae297297f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-09-13",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "247484",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-09-19",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "349189",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-09-24",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "364417",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-09-26",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "332908",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-09-27",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "590033",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-01",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "273374",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c3a48993-45d4-4905-968b-b8ca24f01bf9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-10-01",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "273374",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-04",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "306531",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-07",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "349561",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-16",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "389636",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-22",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "285472",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-23",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "383638",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-31",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "354992",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2cd32ce8-ab42-4700-adac-ebd6a0ec276a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-11-03",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "237227",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-04",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "239853",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-06",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "362267",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-07",
+                      "PageViews": {
+                        "PerMillion": "0.004",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "859101",
+                      "Reach": {
+                        "PerMillion": "0.2"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-11",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "487433",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-21",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "358206",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-26",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "344561",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "49580e48-a937-4654-9bf2-5e935612acde"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-12-03",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "297421",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-04",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "495115",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-12",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "168944",
+                      "Reach": {
+                        "PerMillion": "6"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-18",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "469089",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "05c3ec3f-06ce-43d0-842d-b99f40b93322"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-01-06",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "162446",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-07",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "227966",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-09",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "275195",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-13",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "398191",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "91ed04ab-bb67-410a-874a-47a2f1bb64dc"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-02-04",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "379539",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-02-07",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "375176",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-02-08",
+                      "PageViews": {
+                        "PerMillion": "0.4",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "169900",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-02-18",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "219199",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "205497",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "52221c92-7467-4ebb-8d2b-9059023e5758"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "205497",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2020-03-09",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "369809",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-03-21",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "170120",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d67691fb-f579-45c0-a724-529a1233f3cd"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-04-05",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "271676",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-04-07",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "251957",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-04-08",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "196419",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-04-16",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "307876",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-04-23",
+                      "PageViews": {
+                        "PerMillion": "0.9",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "113177",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2020-04-29",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "355390",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d9ef65a3-5817-468c-91d2-1cc6c8128f35"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-05-21",
+                    "PageViews": {
+                      "PerMillion": "0.2",
+                      "PerUser": "3.00"
+                    },
+                    "Rank": "279777",
+                    "Reach": {
+                      "PerMillion": "2"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3c8c4322-d65d-4297-b97d-51e35add4d7e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-06-25",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "674126",
+                    "Reach": {
+                      "PerMillion": "0.7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "71e1e902-21aa-474d-b6be-48782f813fce"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-07-03",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "173469",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-13",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "307392",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-16",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "212317",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-20",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "241884",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-22",
+                      "PageViews": {
+                        "PerMillion": "0.7",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "105265",
+                      "Reach": {
+                        "PerMillion": "7"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-23",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "298745",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-24",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "283252",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-07-29",
+                      "PageViews": {
+                        "PerMillion": "0.7",
+                        "PerUser": "9.00"
+                      },
+                      "Rank": "163176",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3f91d710-d3b1-48ac-aa4e-024e702f0fd4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-08-03",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "299550",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-08-07",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "405130",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-08-13",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "115438",
+                      "Reach": {
+                        "PerMillion": "7"
+                      }
+                    },
+                    {
+                      "Date": "2020-08-26",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "211808",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-08-27",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "306628",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-08-31",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "136746",
+                      "Reach": {
+                        "PerMillion": "6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e0cbddbe-db70-40af-95a2-098aac059ebb"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-09-18",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "296138",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-09-19",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "118808",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2020-09-29",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "322382",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "04cf2900-9430-4a10-8461-b6dbe7dd57e5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-10-06",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "626651",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2020-10-07",
+                      "PageViews": {
+                        "PerMillion": "0.01",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "708660",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2020-10-12",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "280711",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-10-23",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "222022",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-10-26",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "315227",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-10-28",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "254186",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "94522d0c-fcb9-4537-b756-b5eb90aef8d5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-11-18",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "312284",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-11-20",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "628456",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2020-11-23",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "294998",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-12-01",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "309882",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "017f9f0b-70ed-4bce-b7cb-3dead83e03d2"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-12-01",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "309882",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-12-02",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "306540",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-12-03",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "228054",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-12-07",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "299246",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-12-09",
+                      "PageViews": {
+                        "PerMillion": "0.4",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "98078",
+                      "Reach": {
+                        "PerMillion": "10"
+                      }
+                    },
+                    {
+                      "Date": "2020-12-17",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "280632",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a4ac544e-f53d-4b4e-a7fc-84c85e2f4095"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://www.healthverity.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "http://www.healthverity.com/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2021-01-25",
+                    "PageViews": {
+                      "PerMillion": "0.002",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "739595",
+                    "Reach": {
+                      "PerMillion": "0.1"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

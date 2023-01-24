@@ -1,0 +1,3567 @@
+{
+  "comp_id": "tickertags",
+  "run_date": "2021-02-01",
+  "url": "http://tickertags.com/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3f119cfe-8b1e-4d59-9ef6-7f4554fce413"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-01-02",
+                      "PageViews": {
+                        "PerMillion": "0.21",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "545758",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-08",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "583531",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-09",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "936386",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-10",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "844403",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-12",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "828337",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1015238",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-14",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "760972",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-16",
+                      "PageViews": {
+                        "PerMillion": "0.16",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "660392",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-17",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "838981",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-18",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "9.00"
+                      },
+                      "Rank": "782560",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1484505",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-20",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "787749",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-23",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "9.00"
+                      },
+                      "Rank": "751751",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-26",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "733213",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-27",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "598968",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-28",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "639368",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-31",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "757246",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5758bdd1-9638-45f0-858f-d6561c83ee69"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-02-01",
+                      "PageViews": {
+                        "PerMillion": "0.16",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "689353",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-02",
+                      "PageViews": {
+                        "PerMillion": "0.18",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "406896",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-03",
+                      "PageViews": {
+                        "PerMillion": "0.23",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "551464",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-04",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "470487",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-06",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "595673",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-07",
+                      "PageViews": {
+                        "PerMillion": "0.17",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "661723",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-08",
+                      "PageViews": {
+                        "PerMillion": "0.18",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "689046",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-09",
+                      "PageViews": {
+                        "PerMillion": "0.15",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "699818",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-12",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "585069",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-13",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "704537",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-14",
+                      "PageViews": {
+                        "PerMillion": "0.16",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "685535",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-15",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "700678",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-16",
+                      "PageViews": {
+                        "PerMillion": "0.17",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "676843",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-17",
+                      "PageViews": {
+                        "PerMillion": "0.21",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "618520",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-19",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "692150",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-20",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "618384",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-21",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "752779",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-22",
+                      "PageViews": {
+                        "PerMillion": "0.14",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "719400",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-23",
+                      "PageViews": {
+                        "PerMillion": "0.24",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "633463",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-24",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "9.00"
+                      },
+                      "Rank": "666757",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-26",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "558896",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-27",
+                      "PageViews": {
+                        "PerMillion": "0.16",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "697441",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-28",
+                      "PageViews": {
+                        "PerMillion": "0.25",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "380813",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-01",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "876745",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.099",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "967281",
+                      "Reach": {
+                        "PerMillion": "0.4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6160a26c-1ef7-4ab2-a99a-4f24a99b6621"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-03-01",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "876745",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.099",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "967281",
+                      "Reach": {
+                        "PerMillion": "0.4"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1339698",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1019510",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-15",
+                      "PageViews": {
+                        "PerMillion": "0.13",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "881286",
+                      "Reach": {
+                        "PerMillion": "0.4"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-17",
+                      "PageViews": {
+                        "PerMillion": "0.12",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "847122",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1002516",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2257656",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-22",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1026710",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1078922",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1117250",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1447516",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1658819",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "224e18bb-de32-4b6e-86e5-b2094c4f8006"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-04-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1209365",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1450299",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-05",
+                      "PageViews": {
+                        "PerMillion": "0.13",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "858787",
+                      "Reach": {
+                        "PerMillion": "0.4"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1595288",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1144787",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1253751",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1409080",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3a68169f-df57-428f-97a1-4d04e3afc3ad"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-05-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1023231",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-05",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "906388",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-08",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "999927",
+                      "Reach": {
+                        "PerMillion": "0.4"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1364553",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-12",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "700246",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-15",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "890163",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-22",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "931289",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-24",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "470845",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-29",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1248057",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1879970",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1d199a46-a21f-4fb7-b037-fab19aec867d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-06-06",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "953382",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-11",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "782968",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1498265",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1373410",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-17",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1009973",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1514837",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "78ecadb0-8afb-4c1d-aa51-8df0aa7500a4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-07-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1049187",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-10",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "984112",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1447123",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1065267",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-20",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "914768",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-24",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "918468",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2116797",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1836630",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-29",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1316124",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1403552",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4b130f3f-106c-4578-a8bc-5ac6abd21a7a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-08-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2175933",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1916851",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ce8c183d-665b-4a66-9438-ac55e9b15975"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-09-07",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "621406",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1164321",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2cb920d1-d054-4747-8d34-86e8ae6a52d6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-10-13",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "966715",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-10-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1328677",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a97d20b1-7f7e-4e3f-b6fa-6d52452db4c8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e68dcc94-b203-4343-8516-c7e25d605849"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "953e3788-1a7b-45ed-8c2b-af84af8de68f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-01-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1393388",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-01-15",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "794563",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9065753d-8eb4-4400-939c-168026357cc0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-02-08",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "832368",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-11",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "599416",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "606b879c-bcca-4200-9e54-d079883fb27b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "28101e04-271c-4d19-a07e-8864910ccb27"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-04-10",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1256101",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-04-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1132217",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "607e14b9-99d1-4449-8d55-597681329801"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-05-07",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "934069",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-05-30",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "831374",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1142918c-39ca-4f14-b8bc-c112a83029b3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-06-04",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "564218",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1137358",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-06-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1103763",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-06-10",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1877802",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-06-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1125432",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-06-15",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "493161",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4a504a0c-f7a3-4882-ba2b-24ce58c788c2"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-07-05",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "994730",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1098245",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-07-15",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "805348",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-20",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "595199",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-21",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "777492",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1044899",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-07-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1093660",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "37976c4a-be75-46e7-8b1f-98c8b9913e2b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-08-04",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "741287",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-19",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "768563",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-22",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1240360",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1029763",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-28",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "841945",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3f9cfa13-a974-4710-b26e-e28ddb9cc71f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-09-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1129212",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-09-07",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "948940",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-09",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "760004",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f65d3cfa-b2ca-4892-81bb-fc0a3f6d6bee"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-10-30",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "997736",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-31",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "959052",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ea0a6c5a-2361-443d-9137-c60e1ce319e7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-11-06",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "989311",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-12",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "955776",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2457229",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-11-25",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "680917",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fd5a6422-af04-493f-8033-2a1696f2a7f8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ba1f080c-74da-4d68-a8bd-f859354daa83"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-01-08",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1081930",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "09990954-0ec2-4a7c-af12-3fbe38cf54d5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-02-05",
+                    "PageViews": {
+                      "PerMillion": "0.03",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "897296",
+                    "Reach": {
+                      "PerMillion": "0.6"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f3ce2eeb-ad06-46c3-9fbc-cb6d60ca1ee8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-03-14",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "473495",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1189800",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-03-24",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "792102",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-25",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "488986",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-27",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "660045",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "dc71fa04-2777-4b3d-878d-26e00ff4b1ed"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-04-10",
+                    "PageViews": {
+                      "PerMillion": null,
+                      "PerUser": null
+                    },
+                    "Rank": "1091910",
+                    "Reach": {
+                      "PerMillion": null
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9f2f8fbe-7bfb-4330-b553-a63e8ece81f6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-05-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1061392",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-17",
+                      "PageViews": {
+                        "PerMillion": "0.25",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "485471",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ef67867d-cf7f-4894-80ad-675c4db69726"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1a5d088d-398c-4570-bfb7-0e719a9d8662"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "306f54ad-6859-45f4-ae62-25b5fbbc652a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "10323e29-039e-48fc-8bfd-3ddf9af75f3a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0f17955e-0425-47c8-b30a-c20944ab1d91"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "49c963b6-a879-4b07-b553-b1507736675e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c28a70be-d31c-4854-b541-3616e896aa74"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "da309e26-7cc1-4161-a50b-bd83f73fdb64"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a3e90551-8469-475f-b47c-68d99eab8c54"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "952cba62-c60e-41e6-875f-cab12b888906"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c349af44-128a-4aca-8625-d498adef38bc"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a1183a3d-2d6c-4d44-9c7a-d8d25e3ff90d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "df938b8e-93ca-46bc-b59f-4bc5e1938c0d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "250f9b98-8e47-4893-b220-d9a7299b3f39"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "bd9f9c29-6699-4122-b0eb-0ee7cf51cf60"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f7cde93d-c44c-4493-90c2-5decb724b46a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "55c3c58e-714a-4cf8-9143-ffdcce1e2e61"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1a6f138e-5035-4dc1-9b39-b945ac83b92a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f0fb795f-4718-4c90-9e09-f6dd15c95edd"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "a0fd930d-3ec5-44d7-8cfa-ea75a71d06c5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://tickertags.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "http://tickertags.com/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

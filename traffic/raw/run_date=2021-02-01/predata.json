@@ -1,0 +1,4525 @@
+{
+  "comp_id": "predata",
+  "run_date": "2021-02-01",
+  "url": "http://predata.com/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5b601ada-3d5d-415a-920b-b4bed099949a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-01-03",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "833098",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-04",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "689817",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9da21a67-749e-4748-a915-4d6a2ff7856a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-02-09",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "932729",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-17",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1059389",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1194939",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1159828",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1376556",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1f361d02-06bd-496a-b8be-663b0143bd58"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-03-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1376556",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1497538",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1859784",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1351140",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-10",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "971269",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-11",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "616728",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1337479",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1180717",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1819169",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1385600",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-31",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "714810",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0273689d-e3c5-4382-8d5f-d36969100794"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-04-03",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "719272",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1242780",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1216009",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1126892",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1361375",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-20",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "949938",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1412256",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-26",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "704370",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-27",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "719792",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-28",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "938763",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1237698",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1387588",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1b221eb0-d18f-4485-91ae-895a26c8badf"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-05-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1387588",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-03",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1607661",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1525218",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-14",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "856369",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-17",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1159441",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-20",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "956590",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "16606a31-0707-4ca8-83c4-ca0c25d26902"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-06-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1054216",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1183744",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2022418",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2778480",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-29",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1396151",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0c2f963d-58e7-4eaf-a888-cdca9de0e737"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-07-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1000254",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-09",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "546424",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1305521",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "649c990a-1797-4513-b867-e84ba4ba3a87"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-08-01",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "816210",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-02",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1600006",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-04",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "884893",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1051223",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1356061",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1355282",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1106821",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1018409",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1443355",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b6abe2a4-db17-43ad-b914-6d74900041ff"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-09-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2995944",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-07",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "843568",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1208587",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-09",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "971573",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-10",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "782277",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-12",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "516128",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-20",
+                      "PageViews": {
+                        "PerMillion": "0.25",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "550223",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-28",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "715491",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5b1ef691-5940-452d-91c1-2d1cef1affde"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-10-15",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "731846",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-10-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1415548",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-10-17",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "943154",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-10-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1402649",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9152c174-17cf-4ddd-96e6-44b86f23918b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-11-06",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "850516",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-11-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1393238",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-11-10",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "846039",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-11-17",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "972526",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-11-27",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "784473",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-11-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1044990",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f9f64928-e89f-41dd-8163-744ac0425d62"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-12-03",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "920953",
+                    "Reach": {
+                      "PerMillion": "0.8"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ffbea6fb-fe6c-45ec-945d-dafb666ca5be"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-01-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1255129",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-01-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1250583",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-01-12",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "167141",
+                      "Reach": {
+                        "PerMillion": "6"
+                      }
+                    },
+                    {
+                      "Date": "2018-01-28",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "585098",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "95b0c5aa-b0b5-4705-97f9-570f001c35f1"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-02-02",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1167561",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1223012",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1092870",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-18",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "646112",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-20",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "956451",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1273506",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-27",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "970690",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1247786",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3c518558-bb5d-41b2-a57b-ecbcab053c19"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-03-12",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "937952",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1160286",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-03-22",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1140355",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6ca4c0b0-45b7-4d99-8b70-ba6be449666d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-04-07",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "629105",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1212252",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-04-12",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "934528",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1045641",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-04-18",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "663282",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-20",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "850485",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-26",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "869801",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-30",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "938867",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "92425cd6-661f-46f7-ab31-3267d155aa0a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-05-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1172988",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-05-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1180300",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-05-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1048283",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "71e1a0d5-78b1-4f0c-932c-d63b8367e128"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-06-09",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "477026",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-10",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "784102",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-21",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "651194",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-25",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "703876",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-26",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "808702",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-27",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "646937",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-29",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "611904",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "aeefe70e-faf2-40e1-8f72-37a8a1b26fd3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-07-03",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "585609",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-06",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "615485",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-09",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "589863",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-12",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "726302",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1622955",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-07-14",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "588333",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-16",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "637686",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-17",
+                      "PageViews": {
+                        "PerMillion": "0.25",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "528840",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-18",
+                      "PageViews": {
+                        "PerMillion": "0.21",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "538422",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-21",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "584865",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-24",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "645532",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-25",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "710947",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-26",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "488627",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-27",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "314501",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-29",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "756913",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-30",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "412043",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-31",
+                      "PageViews": {
+                        "PerMillion": "0.29",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "248595",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "784b3d1e-24c8-4690-aef0-38fba00ab458"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-08-01",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "732634",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-03",
+                      "PageViews": {
+                        "PerMillion": "0.28",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "435042",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-07",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "387758",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-08",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "697635",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-09",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "708354",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-10",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "958862",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-12",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "560653",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-13",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "652792",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-16",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "799720",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-17",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "490240",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1061096",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-20",
+                      "PageViews": {
+                        "PerMillion": "0.22",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "515732",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-21",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "885298",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-24",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "756213",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-28",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "681053",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0b914b40-f969-44d4-a769-4a90f88aea71"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-09-05",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "735776",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-17",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "249220",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-24",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "465918",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9a4986ed-4c07-41c8-92b2-d07ec466f1d2"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-10-07",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "362768",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-18",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "479594",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-19",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "724802",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-30",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "680951",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-31",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "654719",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "393a9384-4d44-4d62-aa09-37769679ed22"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-11-07",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "659117",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-08",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "975169",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-13",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "947661",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2014523",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-11-24",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "414432",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "69937267-96ef-4846-83a7-a41efb6e6a8a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-12-04",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "904594",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-12-05",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "690765",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-12-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1003855",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-12-10",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "902930",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-12-12",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "445319",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-12-21",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "573496",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b7f163f6-0546-4b9a-bedd-d29c8222af0e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-01-08",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "681448",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-09",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "639260",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-10",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "9.00"
+                      },
+                      "Rank": "564145",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1015172",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-01-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1070695",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "523525fc-03e3-40ed-a7bd-ef0f001686fe"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-02-10",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "865348",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1384723",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-02-17",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "601632",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-19",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "731286",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1065126",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e7c4b844-36b2-4078-b93c-16d1d93f59dc"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-03-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1150609",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-03-17",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1181581",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-03-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1104322",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-03-22",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "971274",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-29",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "677333",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cccb6afc-95de-4472-87d5-4211e03b2e71"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-04-02",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "578913",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-09",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "547064",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1027143",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-04-29",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1051590",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d9d4104a-ab2c-4444-8aea-3a22a454f387"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-05-09",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "659468",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-28",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "558628",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-29",
+                      "PageViews": {
+                        "PerMillion": "0.32",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "479597",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-30",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "747404",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5d0a8054-a4a3-4e00-9e85-b07eb3532ac4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-06-03",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "807504",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-07",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "313007",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-10",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "759998",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-12",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "952224",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-17",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "989196",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-06-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1168191",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-07-01",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "979421",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ec3df57a-4f86-4d39-a808-c18f90134df0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-07-01",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "979421",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2019-07-25",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "613724",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c8d553d7-5851-45c5-9589-808ccbb5e91d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-08-20",
+                    "PageViews": {
+                      "PerMillion": "0.2",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "275882",
+                    "Reach": {
+                      "PerMillion": "3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2e5b3a65-125a-4268-9170-9a3b1096f5b9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-09-22",
+                    "PageViews": {
+                      "PerMillion": "0.5",
+                      "PerUser": "4.00"
+                    },
+                    "Rank": "146709",
+                    "Reach": {
+                      "PerMillion": "4"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "26c7b3b6-a965-4626-b632-9c531af33c5b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-10-05",
+                      "PageViews": {
+                        "PerMillion": "0.006",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "643403",
+                      "Reach": {
+                        "PerMillion": "0.2"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-07",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "476925",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-08",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "428579",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0b079959-f053-4e50-8283-47125c1dfc22"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3d562231-4f93-4247-bb46-4414169e58fb"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-12-06",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "344286",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-07",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "237581",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-09",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "488293",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-12",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "377466",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-27",
+                      "PageViews": {
+                        "PerMillion": "0.4",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "182913",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-29",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "220171",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8c9ef90a-3c98-4813-91e7-56544f8314de"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-01-05",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "251195",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-10",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "229935",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-24",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "390797",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "73ef4431-1c29-4cd0-9720-bb3e389da90d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-02-06",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "319285",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-02-09",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "259459",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "bce4b8a5-36d3-40fe-a234-bfd104530e48"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-03-03",
+                    "PageViews": {
+                      "PerMillion": "0.1",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "233589",
+                    "Reach": {
+                      "PerMillion": "4"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6fff2fbf-8203-44b9-8d62-f22d2dae92aa"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-04-04",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "305775",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-04-06",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "289768",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-04-28",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "243030",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "dfa6ee4c-283a-475a-b175-5a2626b2d9b4"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-05-14",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "469727",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-05-26",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "323625",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-05-29",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "419039",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "77a166f9-0306-410b-be56-3c6c6c2ea86d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-06-22",
+                    "PageViews": {
+                      "PerMillion": "0.2",
+                      "PerUser": "4.00"
+                    },
+                    "Rank": "299473",
+                    "Reach": {
+                      "PerMillion": "2"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1477182b-3ad3-42ca-8ec6-dc65288cbaad"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-07-23",
+                    "PageViews": {
+                      "PerMillion": "0.3",
+                      "PerUser": "4.00"
+                    },
+                    "Rank": "191813",
+                    "Reach": {
+                      "PerMillion": "4"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "af978087-9033-4999-9968-0f4d9e478e0d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-08-06",
+                    "PageViews": {
+                      "PerMillion": "0.06",
+                      "PerUser": "3.00"
+                    },
+                    "Rank": "585803",
+                    "Reach": {
+                      "PerMillion": "0.8"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b090daf8-5dce-4c58-ace7-8c51fd607cc0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0ba55f74-ab17-4d56-a659-48a5f0caef60"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-10-21",
+                    "PageViews": {
+                      "PerMillion": "0.08",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "327572",
+                    "Reach": {
+                      "PerMillion": "3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2a877a84-9ccc-490b-a150-4aa3cfa7e6c6"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-11-02",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "319646",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-11-13",
+                      "PageViews": {
+                        "PerMillion": "0.009",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "654120",
+                      "Reach": {
+                        "PerMillion": "0.4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4143ed7d-7872-4ed5-8e68-dd6c45276d3e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://predata.com/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-12-02",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "721592",
+                      "Reach": {
+                        "PerMillion": "0.4"
+                      }
+                    },
+                    {
+                      "Date": "2020-12-14",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "304964",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "24210619-a8a8-41b1-a04e-9ee6581d1039"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://predata.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "http://predata.com/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2021-01-11",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "145110",
+                      "Reach": {
+                        "PerMillion": "8"
+                      }
+                    },
+                    {
+                      "Date": "2021-01-13",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "312449",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

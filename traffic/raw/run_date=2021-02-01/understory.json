@@ -1,0 +1,3936 @@
+{
+  "comp_id": "understory",
+  "run_date": "2021-02-01",
+  "url": "http://understoryweather.com/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "afa5af08-0698-423e-83cd-bcf01d5060f8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-01-02",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "990022",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1005774",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-20",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "849883",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1373144",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-01-30",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "371386",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-01-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1341920",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "159e55ff-b4b8-4cc9-bdd6-d65ebab76242"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-02-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1285585",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-07",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "820690",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-10",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "836378",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1659346",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-19",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "711550",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "15edf671-fede-448a-984d-dec97e236e0a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-03-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1386360",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2080402",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-24",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1708837",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2886830",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-30",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1791092",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0be8871d-653c-4431-9804-2a20f8706b2b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-04-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1213010",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-19",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "992013",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1999888",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2160436",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1736920",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e27afab2-952b-42cc-95c6-e8314fdababe"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-05-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1736920",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2129242",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1737099",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1345592",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1830329",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1678276",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fd72863c-7e7b-4d4b-a78b-8a6816dc4f8f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-06-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1591796",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1257069",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-20",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "991537",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1481066",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "045f1a40-2166-4327-8d04-989e6da064a8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-07-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1088527",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-08",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "507875",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1373300",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-07-30",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "942829",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "02d02dfc-fede-43c9-a0fb-50a4d1dc3667"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-08-03",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "548329",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-12",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "899590",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e22b3d24-2bdb-4a12-ad75-a05e5710e911"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-09-05",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "849677",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2484082",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1659732",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-09-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1504772",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d4e794fc-ee27-4557-983e-e0176e8e1134"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-10-02",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "990652",
+                    "Reach": {
+                      "PerMillion": "0.8"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c626114f-9abf-4ae2-bf44-c40a65b2be1c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-11-05",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "991290",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-11-07",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "576277",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-11-15",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "901192",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2017-11-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1347933",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9773d090-c3ee-43db-bfed-ba600b4552f3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2017-12-17",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "866859",
+                    "Reach": {
+                      "PerMillion": "0.9"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2571e124-0d22-42b2-8dae-9d51d0548b55"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-01-18",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1281261",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-01-23",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1336447",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "35b26f2e-5048-4209-bec4-56fdfbc9e784"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-02-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1756942",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1927675",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1172070",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-24",
+                      "PageViews": {
+                        "PerMillion": "0.6",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "98069",
+                      "Reach": {
+                        "PerMillion": "7"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-26",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "857567",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2421935",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-02-28",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "989262",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "82eceed7-53a2-461c-a6f1-2770482e13d5"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-03-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1220708",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-03-25",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "320079",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4cabeb1d-4c06-4289-883f-b31e71272d94"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-04-10",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "993125",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-18",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "715928",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2297890",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f4ded484-03a8-47dd-9ed8-0ed59468738f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-05-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2310932",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-05-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1169955",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-05-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1088167",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-05-21",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "661315",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-05-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1036687",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3ee4b503-9ffb-42a4-af08-d7f2b54e3620"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2018-06-10",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "803189",
+                    "Reach": {
+                      "PerMillion": "0.9"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "46246b74-f39c-414f-aa39-aaa7968a7bf7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-07-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2406582",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-07-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1104021",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cee059f9-9161-4808-8065-2f79e6286606"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-08-06",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "751870",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1075716",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1092917",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-18",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "754845",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-27",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1090909",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-08-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1732082",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ce92f54a-4920-4c40-9f6d-23f3c2147d30"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-09-11",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "700460",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1379894",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-10-01",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "794628",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1a9ef59a-712a-4599-93be-18095eca2f81"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-10-01",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "794628",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-17",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1030541",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "0bb89108-4181-4b8d-8a83-d96d3a7bf207"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-11-12",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "825165",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-20",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "338456",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-21",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "319444",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-26",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "536056",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-28",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "754721",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-30",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "839765",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8c51dd13-fbb9-478a-a9c0-7fb3be2e9011"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-12-03",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "655614",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2018-12-09",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "848033",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "959bb617-3f73-4030-8759-de819963953a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-01-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1055978",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-01-08",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1110792",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-01-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1032554",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-01-16",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "680948",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-23",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "888168",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-25",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "858423",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-27",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "804758",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-29",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1109176",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8488ffe0-5a0c-413e-81dd-94ac067ce973"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-02-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1138899",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-02-12",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2591986",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-02-14",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1324327",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "525435",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "447f02ff-a9c4-4cc1-8bab-13d6107f38ef"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "525435",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2503243",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-03-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1255934",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-03-29",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "966825",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-31",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "782991",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "09767411-fcdf-4f1b-ac89-66a5fde39986"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-04-04",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1101436",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-04-08",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "759200",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1d5f9c17-4bfe-49b2-b304-6ee581217d72"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-05-08",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "956621",
+                      "Reach": {
+                        "PerMillion": "0.5"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-10",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "176612",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-12",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "9.00"
+                      },
+                      "Rank": "435229",
+                      "Reach": {
+                        "PerMillion": "0.9"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-13",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1064792",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-14",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "377468",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-05-15",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1100163",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1099519",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-17",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1003741",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1079659",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-29",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1033055",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "107abeef-883e-4cd7-a5c1-6617dba81cfa"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-06-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1266992",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-06-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1875969",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-06-22",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1421311",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "65fab8e2-2262-46fb-b22e-678778d8bfab"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-07-08",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "410462",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-07-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1263888",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e04444bc-c6cc-4c74-bcf9-265609a7883a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-08-15",
+                      "PageViews": {
+                        "PerMillion": "0.4",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "229434",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-08-21",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "367327",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-08-23",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "203660",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-08-26",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "375108",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "069b28d1-08b2-4a97-88b3-d5791f0e9838"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-09-12",
+                    "PageViews": {
+                      "PerMillion": "0.08",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "375667",
+                    "Reach": {
+                      "PerMillion": "3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "446ec4d0-c850-4a27-b5c4-7a7a27be0fd0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-10-23",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "411999",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-10-25",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "529462",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b3d7777e-1c95-4662-bf7b-d64b67b53d5f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-11-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "244717",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-05",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "402903",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-07",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "255479",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-08",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "367225",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-12",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "411843",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-11-22",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "357545",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f0cbe7e9-606f-4a79-942f-6fa3486dc827"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-12-05",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "385097",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-12-17",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "429133",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1b80fc13-b57f-4eb9-8aaf-7a38d1e67402"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-01-02",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "361672",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-09",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "332897",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-10",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "393907",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-14",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "431134",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-01-30",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "425019",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f7763287-87b7-45c0-9569-9782cbc63f26"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-02-27",
+                    "PageViews": {
+                      "PerMillion": "0.07",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "421495",
+                    "Reach": {
+                      "PerMillion": "3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d162105b-4387-4e12-a6ac-6ec1f0ef98d7"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-03-10",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "428226",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-03-12",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "203720",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "484d6912-3779-45a3-9306-7c705dcfcc77"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-04-10",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "411004",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-04-29",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "488814",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "8ff3cac9-5a0c-4968-bfdc-c8dfdff8f96b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-05-13",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "489485",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-05-20",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "436524",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2576129c-53bf-434e-833e-71a0d7198882"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-06-05",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "273703",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-06-25",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "329083",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9797a3df-5cbb-48da-8fab-abd90973086d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-07-16",
+                    "PageViews": {
+                      "PerMillion": "0.08",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "337683",
+                    "Reach": {
+                      "PerMillion": "3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d2bac9fc-5bd8-4db9-b15d-525430ff40b3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-08-14",
+                    "PageViews": {
+                      "PerMillion": "0.09",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "296301",
+                    "Reach": {
+                      "PerMillion": "4"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "dabf2f53-5e1a-4deb-bf38-116e08d052e0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f2c966bc-814f-452d-88b9-7751d5d5555e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-10-14",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "576376",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2020-10-21",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "339938",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ad9685f0-0083-48a9-97d6-46ae9612623f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-11-02",
+                      "PageViews": {
+                        "PerMillion": "1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "46990",
+                      "Reach": {
+                        "PerMillion": "20"
+                      }
+                    },
+                    {
+                      "Date": "2020-11-03",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "364586",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-11-06",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "305876",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-11-09",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "246625",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2020-11-20",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "319037",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2020-11-23",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "320565",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "7449cb82-8672-479d-a9d6-faed93423629"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-12-08",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "432838",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-12-16",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "316210",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ebeb267f-03a7-4830-b802-3492ad942214"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://understoryweather.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "http://understoryweather.com/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2021-01-19",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "327353",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2021-01-21",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "251528",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2021-01-29",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "219801",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2021-01-30",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "205424",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

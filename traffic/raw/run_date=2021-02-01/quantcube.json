@@ -1,0 +1,4217 @@
+{
+  "comp_id": "quantcube",
+  "run_date": "2021-02-01",
+  "url": "http://q3-technology.com/",
+  "start_date": "2017-01-01",
+  "end_date": "2021-01-01",
+  "responses": [
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ed864de8-e9e4-442e-85c6-3fd2f988255e"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "20f9f513-010e-4c01-9d57-5ec51dd7952f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-02-03",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "512175",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-06",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "410529",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-08",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "597489",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-02-16",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1705693",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-02-20",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "605303",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-01",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "620286",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "831657",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c3cbb551-b617-46bb-8537-1f366025d1a8"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-03-01",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "620286",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "831657",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1333207",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-07",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1000900",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-03-12",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "560505",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-22",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "840148",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-03-24",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "463568",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "6853f117-1f65-4cca-aec8-42f41f8f0c47"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-04-04",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "566158",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-05",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "814387",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-12",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "784192",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-13",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "460432",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-14",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "494229",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-16",
+                      "PageViews": {
+                        "PerMillion": "0.03",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "557653",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-18",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "586950",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-19",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "632780",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-04-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1223684",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-04-21",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "575837",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "602389ed-f5df-4a03-ab96-077f6c6c8ef1"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-05-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "494678",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-03",
+                      "PageViews": {
+                        "PerMillion": "0.37",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "395519",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-04",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "501151",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-10",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "557312",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-11",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "548469",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-12",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "522140",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-17",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "540722",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-18",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "501008",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-19",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "509567",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-22",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "471487",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-23",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "533790",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-24",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "483956",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-26",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "380112",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-28",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1381985",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-05-29",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "521950",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-05-30",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "602271",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "521af469-0f4e-48db-9e81-871b0672483b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-06-06",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2408600",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-06-07",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "526927",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-08",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "259214",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-09",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "455209",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-11",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "408227",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-22",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "456034",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-23",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "460526",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-26",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "509628",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-29",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "469303",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-06-30",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "442315",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3c2d3311-d19f-498a-b396-5a0521b0494f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-07-03",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "506598",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-04",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "466219",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-05",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "439798",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-06",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "493115",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-07",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "460882",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-10",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "515420",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-11",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "462531",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-12",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "485202",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-13",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "455264",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-17",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "454906",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-18",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "465388",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-19",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "461214",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-20",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "418783",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-24",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "435072",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-25",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "431918",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-26",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "422331",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-27",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "174980",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-28",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "176116",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2017-07-31",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "196072",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "f49785f2-d07d-4084-9165-203d3402fadc"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-08-01",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "444044",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-02",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "412683",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-03",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "406542",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-04",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "387953",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-06",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "226286",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-09",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "294346",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-14",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "257724",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-17",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "271755",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-21",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "437583",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-22",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "141922",
+                      "Reach": {
+                        "PerMillion": "5"
+                      }
+                    },
+                    {
+                      "Date": "2017-08-25",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1288484",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2017-08-30",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "311205",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "14966c90-9d4d-4675-acbf-dbf7bc3a6a8f"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20170901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-09-04",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "522252",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-06",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "422768",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-11",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "449982",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-13",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "481741",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-14",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "443161",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-09-21",
+                      "PageViews": {
+                        "PerMillion": "0.48",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "340465",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4c15bdfe-0ca5-4cf7-ab7f-f2196e6c8a73"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-10-10",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "425554",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-10-13",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "317020",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-10-15",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "236943",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2017-10-17",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "386861",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-10-24",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1164154",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "c55ef749-a511-46e5-9410-257a7035df6b"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "ec776c68-0859-44f6-923c-6073a189d48a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20171201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2017-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2017-12-05",
+                      "PageViews": {
+                        "PerMillion": "0.42",
+                        "PerUser": "9.00"
+                      },
+                      "Rank": "245252",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2017-12-06",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "233416",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2017-12-07",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "354745",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-12-08",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "296011",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2017-12-28",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "311041",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2017-12-29",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "316175",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3db46aa1-fc36-44ef-bcac-4350076631f3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-01-04",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "373220",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-01-05",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "367640",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-01-19",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1367131",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-01-23",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "389164",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "00d0eb38-c498-45d9-9cc7-5683c326d0cc"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-02-24",
+                      "PageViews": {
+                        "PerMillion": "0.02",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "892668",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-02-26",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "420609",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "386650",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fa55c633-d6da-4693-8997-195f8dc505d0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-03-02",
+                      "PageViews": {
+                        "PerMillion": "0.08",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "386650",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-05",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "430005",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-13",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "419363",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-20",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "415759",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-21",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "530364",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-26",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "423144",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-03-30",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "346498",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5dc05435-17c9-41c1-9dc2-a68eed36d90c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-04-03",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "419126",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-09",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "379934",
+                      "Reach": {
+                        "PerMillion": "1"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-15",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "473030",
+                      "Reach": {
+                        "PerMillion": "0.8"
+                      }
+                    },
+                    {
+                      "Date": "2018-04-20",
+                      "PageViews": {
+                        "PerMillion": "0.09",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "363724",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "14a35389-9c24-4d50-b6d1-7e37eede5d9a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-05-16",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "466455",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-05-29",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "334018",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-05-30",
+                      "PageViews": {
+                        "PerMillion": "0.63",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "177775",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "85cf3f5f-204b-4344-8ff4-3ecb5e72b777"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-06-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-06-05",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "343979",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-06",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "351826",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-06-21",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "2059135",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-06-26",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1688025",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "33a6def0-4f74-443c-b07d-7553ecb3e758"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-07-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-07-02",
+                      "PageViews": {
+                        "PerMillion": "0.04",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "449386",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-03",
+                      "PageViews": {
+                        "PerMillion": "0.92",
+                        "PerUser": "20.00"
+                      },
+                      "Rank": "229563",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-06",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "294365",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-09",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1889983",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-07-24",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "404023",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-26",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "390651",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-27",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "366271",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-07-31",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "280726",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "72c5a12e-b102-4e4f-9e9f-9ec8dcdf08f0"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-08-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-08-23",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "265157",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-27",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "402387",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-08-29",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "318977",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5f27c73f-59d4-4cf3-a610-24cfb30cdbe9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20180901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-09-01",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1362075",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2018-09-05",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "274629",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-06",
+                      "PageViews": {
+                        "PerMillion": "0.53",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "222117",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-07",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "183954",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-10",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "269907",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-11",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "316970",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-12",
+                      "PageViews": {
+                        "PerMillion": "0.7",
+                        "PerUser": "10.00"
+                      },
+                      "Rank": "215884",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-13",
+                      "PageViews": {
+                        "PerMillion": "0.4",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "233804",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-14",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "243716",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-17",
+                      "PageViews": {
+                        "PerMillion": "0.4",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "224976",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-18",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "221065",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-19",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "274088",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-09-20",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "269947",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "cf142ab7-1f85-47ed-9b1e-516f343b9818"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-10-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-10-23",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "278199",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-10-31",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1354457",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2738220c-78eb-42fc-a6b4-c8f577578208"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-11-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-11-07",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "324703",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-08",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "282954",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-14",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "284483",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-19",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "296672",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-23",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "268415",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-11-29",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "270357",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "14dc2072-54b9-4556-bb6f-23faadc8f15a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20181201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2018-12-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2018-12-10",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "292367",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-12-13",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "259787",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2018-12-17",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "280429",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b46a3e1d-5336-425d-a409-9237cc204a94"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-01-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-01-08",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "291727",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-09",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "290032",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-18",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "7.00"
+                      },
+                      "Rank": "193852",
+                      "Reach": {
+                        "PerMillion": "3"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-21",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "297050",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-22",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "296207",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-01-23",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "297825",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "dd18143f-003e-4cc6-9c3a-40d5fe7ae153"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-02-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-02-01",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "380198",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-04",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "5.00"
+                      },
+                      "Rank": "256610",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-05",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "286658",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-06",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "278001",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-10",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "249103",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-12",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "726225",
+                      "Reach": {
+                        "PerMillion": "0.6"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-13",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "775609",
+                      "Reach": {
+                        "PerMillion": "0.7"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-14",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "259149",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-15",
+                      "PageViews": {
+                        "PerMillion": "0.5",
+                        "PerUser": "8.00"
+                      },
+                      "Rank": "220886",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-22",
+                      "PageViews": {
+                        "PerMillion": "0.06",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "365970",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-25",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "288144",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-02-27",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "311971",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9a556f62-c905-40d1-be4b-13adf834dbdf"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-03-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-03-04",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "4.00"
+                      },
+                      "Rank": "284688",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-05",
+                      "PageViews": {
+                        "PerMillion": "0.3",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "171201",
+                      "Reach": {
+                        "PerMillion": "4"
+                      }
+                    },
+                    {
+                      "Date": "2019-03-11",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "296754",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "e4a7fb15-59bb-4a16-9af8-c1d772641953"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-04-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-04-02",
+                      "PageViews": {
+                        "PerMillion": "0.2",
+                        "PerUser": "3.00"
+                      },
+                      "Rank": "299628",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-05",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1264394",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-04-08",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "334459",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-09",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "412529",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2019-04-26",
+                      "PageViews": {
+                        "PerMillion": "0.1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "310857",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "401e6a1d-e36a-458f-ab0a-6bc579415166"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2019-05-11",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1373105",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    },
+                    {
+                      "Date": "2019-05-20",
+                      "PageViews": {
+                        "PerMillion": null,
+                        "PerUser": null
+                      },
+                      "Rank": "1368200",
+                      "Reach": {
+                        "PerMillion": null
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "5bf4d7f2-73c4-45fe-ab6d-96fb4bb940b9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-06-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-06-24",
+                    "PageViews": {
+                      "PerMillion": "0.1",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "335976",
+                    "Reach": {
+                      "PerMillion": "2"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "bc2476e9-875d-4c75-aa10-674fcda3f883"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-07-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2b9f3c11-f299-4e5e-ad13-29258fddbd3d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b23cbf37-81fe-46b8-978d-9c81c6866342"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20190901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-09-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-09-24",
+                    "PageViews": {
+                      "PerMillion": "0.02",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "721473",
+                    "Reach": {
+                      "PerMillion": "0.7"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "d21ad2a5-e4ec-4ecb-9dbd-d24aee589c7a"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-10-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2019-10-15",
+                    "PageViews": {
+                      "PerMillion": "0.04",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "533163",
+                    "Reach": {
+                      "PerMillion": "2"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fce9b158-b1a6-47c6-afc0-aa4987ceebbd"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "44efee53-07d5-47d6-835d-f585597a9c36"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20191201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2019-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1d137643-c183-481a-9fff-02e3660ed1b3"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "fa9749f2-5b2c-491e-9148-8e3ab8b43a30"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-02-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "1770fbf9-be9c-432b-b1ab-a674ea495621"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200301"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-03-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "b9e99237-78e7-4a93-947c-924ef42cb13d"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200401"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-04-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "acc5dae4-f76c-46ae-925a-4cde2dd8b27c"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200501"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-05-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-05-07",
+                      "PageViews": {
+                        "PerMillion": "1",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "42704",
+                      "Reach": {
+                        "PerMillion": "20"
+                      }
+                    },
+                    {
+                      "Date": "2020-05-18",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "434659",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    },
+                    {
+                      "Date": "2020-05-19",
+                      "PageViews": {
+                        "PerMillion": "0.05",
+                        "PerUser": "1.00"
+                      },
+                      "Rank": "431901",
+                      "Reach": {
+                        "PerMillion": "2"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "bef79a91-2fd2-4fa8-bad6-9c67290a2baa"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200601"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-06-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-06-07",
+                    "PageViews": {
+                      "PerMillion": "0.08",
+                      "PerUser": "1.00"
+                    },
+                    "Rank": "307873",
+                    "Reach": {
+                      "PerMillion": "3"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "583d7f94-5c24-4fc0-b3db-123121933121"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200701"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-07-01",
+                "HistoricalData": {
+                  "Data": {
+                    "Date": "2020-07-21",
+                    "PageViews": {
+                      "PerMillion": "2",
+                      "PerUser": "2.00"
+                    },
+                    "Rank": "25974",
+                    "Reach": {
+                      "PerMillion": "40"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "9208b5dc-4e69-4320-a997-e3cf0c88ce72"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200801"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-08-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "4c8e839d-1054-44b7-b0a2-4ef0257284cc"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20200901"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-09-01",
+                "HistoricalData": {
+                  "Data": [
+                    {
+                      "Date": "2020-09-07",
+                      "PageViews": {
+                        "PerMillion": "0.07",
+                        "PerUser": "6.00"
+                      },
+                      "Rank": "590448",
+                      "Reach": {
+                        "PerMillion": "0.4"
+                      }
+                    },
+                    {
+                      "Date": "2020-09-09",
+                      "PageViews": {
+                        "PerMillion": "2",
+                        "PerUser": "2.00"
+                      },
+                      "Rank": "26002",
+                      "Reach": {
+                        "PerMillion": "40"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "3968ec62-58dc-4a37-8b90-c4b00f3de0b9"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201001"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-10-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "03cee61b-9658-407d-ac01-2a72bde67e83"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-11-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "2bbe3204-87a7-495c-adf1-84e8e9197346"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20201201"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "31",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2020-12-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    },
+    {
+      "Awis": {
+        "OperationRequest": {
+          "RequestId": "97562764-3251-49d3-9d51-223820dd5143"
+        },
+        "Results": {
+          "Result": {
+            "Alexa": {
+              "Request": {
+                "Arguments": {
+                  "Argument": [
+                    {
+                      "Name": "start",
+                      "Value": "20210101"
+                    },
+                    {
+                      "Name": "url",
+                      "Value": "http://q3-technology.com/\""
+                    },
+                    {
+                      "Name": "responsegroup",
+                      "Value": "History"
+                    }
+                  ]
+                }
+              },
+              "TrafficHistory": {
+                "Range": "30",
+                "Site": "http://q3-technology.com/\"",
+                "Start": "2021-01-01",
+                "HistoricalData": null
+              }
+            }
+          },
+          "ResponseStatus": {
+            "StatusCode": "200"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+
+BEGIN REQUEST++++++++++++++++++++++++++++++++++++
+Request URL = https://awis.api.alexa.com/api?Action=TrafficHistory&Output=json&ResponseGroup=History&Start=20180101&Url=http%3A%2F%2Fyahoo.com%2F%22
+
+RESPONSE++++++++++++++++++++++++++++++++++++
+Response code: 200
+
+{
+    "Awis": {
+        "OperationRequest": {
+            "RequestId": "530c51d5-2dc8-467b-9e82-5ceed41d807c"
+        },
+        "Results": {
+            "Result": {
+                "Alexa": {
+                    "Request": {
+                        "Arguments": {
+                            "Argument": [
+                                {
+                                    "Name": "start",
+                                    "Value": "20180101"
+                                },
+                                {
+                                    "Name": "url",
+                                    "Value": "http://yahoo.com/\""
+                                },
+                                {
+                                    "Name": "responsegroup",
+                                    "Value": "History"
+                                }
+                            ]
+                        }
+                    },
+                    "TrafficHistory": {
+                        "Range": "31",
+                        "Site": "http://yahoo.com/\"",
+                        "Start": "2018-01-01",
+                        "HistoricalData": {
+                            "Data": [
+                                {
+                                    "Date": "2018-01-01",
+                                    "PageViews": {
+                                        "PerMillion": "6425",
+                                        "PerUser": "3.34"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "68800"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-02",
+                                    "PageViews": {
+                                        "PerMillion": "6409",
+                                        "PerUser": "3.58"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "74300"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-03",
+                                    "PageViews": {
+                                        "PerMillion": "6364",
+                                        "PerUser": "3.58"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "74000"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-04",
+                                    "PageViews": {
+                                        "PerMillion": "6398",
+                                        "PerUser": "3.59"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "74000"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-05",
+                                    "PageViews": {
+                                        "PerMillion": "6430",
+                                        "PerUser": "3.56"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "72900"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-06",
+                                    "PageViews": {
+                                        "PerMillion": "6382",
+                                        "PerUser": "3.43"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "70500"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-07",
+                                    "PageViews": {
+                                        "PerMillion": "5974",
+                                        "PerUser": "3.39"
+                                    },
+                                    "Rank": "8",
+                                    "Reach": {
+                                        "PerMillion": "68000"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-08",
+                                    "PageViews": {
+                                        "PerMillion": "6407",
+                                        "PerUser": "3.62"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "73400"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-09",
+                                    "PageViews": {
+                                        "PerMillion": "6369",
+                                        "PerUser": "3.58"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "73000"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-10",
+                                    "PageViews": {
+                                        "PerMillion": "6265",
+                                        "PerUser": "3.53"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "72600"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-11",
+                                    "PageViews": {
+                                        "PerMillion": "6312",
+                                        "PerUser": "3.52"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "72800"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-12",
+                                    "PageViews": {
+                                        "PerMillion": "6374",
+                                        "PerUser": "3.49"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "71500"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-13",
+                                    "PageViews": {
+                                        "PerMillion": "6311",
+                                        "PerUser": "3.40"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "69200"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-14",
+                                    "PageViews": {
+                                        "PerMillion": "6035",
+                                        "PerUser": "3.37"
+                                    },
+                                    "Rank": "8",
+                                    "Reach": {
+                                        "PerMillion": "68300"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-15",
+                                    "PageViews": {
+                                        "PerMillion": "6447",
+                                        "PerUser": "3.56"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "74000"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-16",
+                                    "PageViews": {
+                                        "PerMillion": "6442",
+                                        "PerUser": "3.53"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "74300"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-17",
+                                    "PageViews": {
+                                        "PerMillion": "6566",
+                                        "PerUser": "3.55"
+                                    },
+                                    "Rank": "6",
+                                    "Reach": {
+                                        "PerMillion": "74800"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-18",
+                                    "PageViews": {
+                                        "PerMillion": "6327",
+                                        "PerUser": "3.47"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "72900"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-19",
+                                    "PageViews": {
+                                        "PerMillion": "6329",
+                                        "PerUser": "3.48"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "71000"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-20",
+                                    "PageViews": {
+                                        "PerMillion": "6309",
+                                        "PerUser": "3.38"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "69500"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-21",
+                                    "PageViews": {
+                                        "PerMillion": "6073",
+                                        "PerUser": "3.37"
+                                    },
+                                    "Rank": "8",
+                                    "Reach": {
+                                        "PerMillion": "68700"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-22",
+                                    "PageViews": {
+                                        "PerMillion": "6418",
+                                        "PerUser": "3.55"
+                                    },
+                                    "Rank": "6",
+                                    "Reach": {
+                                        "PerMillion": "74100"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-23",
+                                    "PageViews": {
+                                        "PerMillion": "6409",
+                                        "PerUser": "3.55"
+                                    },
+                                    "Rank": "6",
+                                    "Reach": {
+                                        "PerMillion": "73800"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-24",
+                                    "PageViews": {
+                                        "PerMillion": "6403",
+                                        "PerUser": "3.53"
+                                    },
+                                    "Rank": "6",
+                                    "Reach": {
+                                        "PerMillion": "73100"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-25",
+                                    "PageViews": {
+                                        "PerMillion": "6360",
+                                        "PerUser": "3.50"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "72000"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-26",
+                                    "PageViews": {
+                                        "PerMillion": "6239",
+                                        "PerUser": "3.47"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "69800"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-27",
+                                    "PageViews": {
+                                        "PerMillion": "6358",
+                                        "PerUser": "3.39"
+                                    },
+                                    "Rank": "7",
+                                    "Reach": {
+                                        "PerMillion": "69400"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-28",
+                                    "PageViews": {
+                                        "PerMillion": "6104",
+                                        "PerUser": "3.39"
+                                    },
+                                    "Rank": "8",
+                                    "Reach": {
+                                        "PerMillion": "68100"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-29",
+                                    "PageViews": {
+                                        "PerMillion": "6504",
+                                        "PerUser": "3.59"
+                                    },
+                                    "Rank": "6",
+                                    "Reach": {
+                                        "PerMillion": "73600"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-30",
+                                    "PageViews": {
+                                        "PerMillion": "6478",
+                                        "PerUser": "3.53"
+                                    },
+                                    "Rank": "6",
+                                    "Reach": {
+                                        "PerMillion": "73400"
+                                    }
+                                },
+                                {
+                                    "Date": "2018-01-31",
+                                    "PageViews": {
+                                        "PerMillion": "6398",
+                                        "PerUser": "3.52"
+                                    },
+                                    "Rank": "6",
+                                    "Reach": {
+                                        "PerMillion": "72900"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "ResponseStatus": {
+                "StatusCode": "200"
+            }
+        }
+    }
+}
